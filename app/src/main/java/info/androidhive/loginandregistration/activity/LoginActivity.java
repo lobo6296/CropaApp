@@ -2,6 +2,7 @@
  * Author: Ravi Tamada
  * URL: www.androidhive.info
  * twitter: http://twitter.com/ravitamada
+ * con permisos de autor copio
  */
 package info.androidhive.loginandregistration.activity;
 
